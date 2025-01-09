@@ -1,0 +1,14 @@
+# dependencies
+colorama
+python-dotenv
+uvicorn
+pydantic
+fastapi
+aiokafka
+SQLAlchemy
+PyJWT
+psycopg2
+redis
+structlog
+asyncpg
+pydantic[email]
